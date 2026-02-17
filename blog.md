@@ -12,4 +12,4 @@ permalink: /blog
 
 February 2, 2026
 
-A new way to explore and interact with the Frama-C/Eva static analyzer.
+A new way to explore and interact with the Frama-C/Eva static analyzer with abstract debugging.
