@@ -1,7 +1,7 @@
 title: 'Jules Massart'
 description: "Personal page"
 baseurl: ""
-url: "https://acaml.github.io"
+url: "https://jmassart.github.io"
 
 header_pages:
   - index.md

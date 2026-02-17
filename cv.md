@@ -7,7 +7,7 @@ permalink: /cv
 # Jules Massart
 
 **Lyon, France**
-[github.com/acaml](https://github.com/acaml)
+[github.com/jmassart](https://github.com/jmassart)
 
 ---
 
@@ -33,7 +33,7 @@ Participated in research-oriented coursework and Capture The Flag competitions
 ## Experience
 
 **CEA Frama-C** — Paris, France | Apr 2025 – Aug 2025
-*Research Intern at Frama-C, a platform for static analysis of C programs* 
+*Research Intern at Frama-C, a platform for static analysis of C programs*
 Developed a live abstract debugger in OCaml for EVA, Frama-C's abstract interpretation plugin, to prove the absence of runtime errors.
 Researched partial orders and iteration strategies for control-flow graphs to compute fixpoints over independent loops.
 Work leading to a publication.
